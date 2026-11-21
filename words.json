@@ -1,0 +1,1796 @@
+{
+  "categories": [
+    {
+      "name": "Begrüßung & Höflichkeit",
+      "emoji": "👋"
+    },
+    {
+      "name": "Menschen & Beziehungen",
+      "emoji": "🧑‍🤝‍🧑"
+    },
+    {
+      "name": "Wichtige Verben I",
+      "emoji": "⚡"
+    },
+    {
+      "name": "Wichtige Verben II",
+      "emoji": "💬"
+    },
+    {
+      "name": "Fragen & Verbindungen",
+      "emoji": "❓"
+    },
+    {
+      "name": "Zeit & Zahlen",
+      "emoji": "🕒"
+    },
+    {
+      "name": "Alltag & Zuhause",
+      "emoji": "🏠"
+    },
+    {
+      "name": "Unterwegs & Stadt",
+      "emoji": "🚶"
+    },
+    {
+      "name": "Eigenschaften & Gefühle",
+      "emoji": "❤️"
+    },
+    {
+      "name": "Sätze & Bedürfnisse",
+      "emoji": "🗣️"
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "it": "ciao",
+      "de": "hallo/tschüss",
+      "category": 0,
+      "example": "Ciao, come stai?"
+    },
+    {
+      "id": 2,
+      "it": "buongiorno",
+      "de": "guten Morgen/guten Tag",
+      "category": 0,
+      "example": "Buongiorno, come va?"
+    },
+    {
+      "id": 3,
+      "it": "buonasera",
+      "de": "guten Abend",
+      "category": 0,
+      "example": "Buonasera, signora."
+    },
+    {
+      "id": 4,
+      "it": "buonanotte",
+      "de": "gute Nacht",
+      "category": 0,
+      "example": "Buonanotte, a domani."
+    },
+    {
+      "id": 5,
+      "it": "arrivederci",
+      "de": "auf Wiedersehen",
+      "category": 0,
+      "example": "Arrivederci, a presto."
+    },
+    {
+      "id": 6,
+      "it": "grazie",
+      "de": "danke",
+      "category": 0,
+      "example": "Grazie mille!"
+    },
+    {
+      "id": 7,
+      "it": "prego",
+      "de": "bitte/gern",
+      "category": 0,
+      "example": "Prego, si accomodi."
+    },
+    {
+      "id": 8,
+      "it": "per favore",
+      "de": "bitte",
+      "category": 0,
+      "example": "Un caffè, per favore."
+    },
+    {
+      "id": 9,
+      "it": "scusa",
+      "de": "entschuldige",
+      "category": 0,
+      "example": "Scusa, hai un minuto?"
+    },
+    {
+      "id": 10,
+      "it": "scusi",
+      "de": "entschuldigen Sie",
+      "category": 0,
+      "example": "Scusi, dov’è la stazione?"
+    },
+    {
+      "id": 11,
+      "it": "mi dispiace",
+      "de": "es tut mir leid",
+      "category": 0,
+      "example": "Mi dispiace, sono in ritardo."
+    },
+    {
+      "id": 12,
+      "it": "sì",
+      "de": "ja",
+      "category": 0,
+      "example": "Sì, certo."
+    },
+    {
+      "id": 13,
+      "it": "no",
+      "de": "nein",
+      "category": 0,
+      "example": "No, grazie."
+    },
+    {
+      "id": 14,
+      "it": "forse",
+      "de": "vielleicht",
+      "category": 0,
+      "example": "Forse domani."
+    },
+    {
+      "id": 15,
+      "it": "certamente",
+      "de": "sicher",
+      "category": 0,
+      "example": "Certamente, va bene."
+    },
+    {
+      "id": 16,
+      "it": "va bene",
+      "de": "in Ordnung",
+      "category": 0,
+      "example": "Va bene così."
+    },
+    {
+      "id": 17,
+      "it": "piacere",
+      "de": "freut mich",
+      "category": 0,
+      "example": "Piacere di conoscerti."
+    },
+    {
+      "id": 18,
+      "it": "salve",
+      "de": "hallo (höflich)",
+      "category": 0,
+      "example": "Salve, come sta?"
+    },
+    {
+      "id": 19,
+      "it": "a presto",
+      "de": "bis bald",
+      "category": 0,
+      "example": "A presto, ciao!"
+    },
+    {
+      "id": 20,
+      "it": "a domani",
+      "de": "bis morgen",
+      "category": 0,
+      "example": "A domani mattina!"
+    },
+    {
+      "id": 21,
+      "it": "benvenuto",
+      "de": "willkommen",
+      "category": 0,
+      "example": "Benvenuto a casa!"
+    },
+    {
+      "id": 22,
+      "it": "auguri",
+      "de": "Glückwünsche",
+      "category": 0,
+      "example": "Auguri per il compleanno!"
+    },
+    {
+      "id": 23,
+      "it": "complimenti",
+      "de": "Kompliment",
+      "category": 0,
+      "example": "Complimenti per il lavoro!"
+    },
+    {
+      "id": 24,
+      "it": "permesso",
+      "de": "darf ich?",
+      "category": 0,
+      "example": "Permesso, posso entrare?"
+    },
+    {
+      "id": 25,
+      "it": "cin cin",
+      "de": "Prost",
+      "category": 0,
+      "example": "Cin cin, alla salute!"
+    },
+    {
+      "id": 26,
+      "it": "io",
+      "de": "ich",
+      "category": 1,
+      "example": "Io sono qui."
+    },
+    {
+      "id": 27,
+      "it": "tu",
+      "de": "du",
+      "category": 1,
+      "example": "Tu come stai?"
+    },
+    {
+      "id": 28,
+      "it": "lei",
+      "de": "sie/Sie",
+      "category": 1,
+      "example": "Lei è italiana."
+    },
+    {
+      "id": 29,
+      "it": "lui",
+      "de": "er",
+      "category": 1,
+      "example": "Lui lavora qui."
+    },
+    {
+      "id": 30,
+      "it": "noi",
+      "de": "wir",
+      "category": 1,
+      "example": "Noi siamo amici."
+    },
+    {
+      "id": 31,
+      "it": "voi",
+      "de": "ihr",
+      "category": 1,
+      "example": "Voi siete pronti?"
+    },
+    {
+      "id": 32,
+      "it": "loro",
+      "de": "sie (Plural)",
+      "category": 1,
+      "example": "Loro sono a casa."
+    },
+    {
+      "id": 33,
+      "it": "amico",
+      "de": "Freund",
+      "category": 1,
+      "example": "Un amico mi aspetta."
+    },
+    {
+      "id": 34,
+      "it": "amica",
+      "de": "Freundin",
+      "category": 1,
+      "example": "La mia amica arriva oggi."
+    },
+    {
+      "id": 35,
+      "it": "famiglia",
+      "de": "Familie",
+      "category": 1,
+      "example": "La mia famiglia è grande."
+    },
+    {
+      "id": 36,
+      "it": "madre",
+      "de": "Mutter",
+      "category": 1,
+      "example": "Mia madre sta bene."
+    },
+    {
+      "id": 37,
+      "it": "padre",
+      "de": "Vater",
+      "category": 1,
+      "example": "Mio padre cucina."
+    },
+    {
+      "id": 38,
+      "it": "figlio",
+      "de": "Sohn",
+      "category": 1,
+      "example": "Mio figlio studia."
+    },
+    {
+      "id": 39,
+      "it": "figlia",
+      "de": "Tochter",
+      "category": 1,
+      "example": "Mia figlia lavora."
+    },
+    {
+      "id": 40,
+      "it": "fratello",
+      "de": "Bruder",
+      "category": 1,
+      "example": "Mio fratello è qui."
+    },
+    {
+      "id": 41,
+      "it": "sorella",
+      "de": "Schwester",
+      "category": 1,
+      "example": "Mia sorella arriva domani."
+    },
+    {
+      "id": 42,
+      "it": "marito",
+      "de": "Ehemann",
+      "category": 1,
+      "example": "Mio marito parla italiano."
+    },
+    {
+      "id": 43,
+      "it": "moglie",
+      "de": "Ehefrau",
+      "category": 1,
+      "example": "Mia moglie ama la musica."
+    },
+    {
+      "id": 44,
+      "it": "persona",
+      "de": "Person",
+      "category": 1,
+      "example": "È una persona gentile."
+    },
+    {
+      "id": 45,
+      "it": "gente",
+      "de": "Leute",
+      "category": 1,
+      "example": "C’è molta gente."
+    },
+    {
+      "id": 46,
+      "it": "nome",
+      "de": "Name",
+      "category": 1,
+      "example": "Come ti chiami di nome?"
+    },
+    {
+      "id": 47,
+      "it": "collega",
+      "de": "Kollege/Kollegin",
+      "category": 1,
+      "example": "Il mio collega è simpatico."
+    },
+    {
+      "id": 48,
+      "it": "vicino",
+      "de": "Nachbar",
+      "category": 1,
+      "example": "Il vicino abita qui."
+    },
+    {
+      "id": 49,
+      "it": "signore",
+      "de": "Herr",
+      "category": 1,
+      "example": "Buongiorno, signore."
+    },
+    {
+      "id": 50,
+      "it": "signora",
+      "de": "Frau",
+      "category": 1,
+      "example": "Buonasera, signora."
+    },
+    {
+      "id": 51,
+      "it": "essere",
+      "de": "sein",
+      "category": 2,
+      "example": "Voglio essere felice."
+    },
+    {
+      "id": 52,
+      "it": "avere",
+      "de": "haben",
+      "category": 2,
+      "example": "Ho tempo oggi."
+    },
+    {
+      "id": 53,
+      "it": "fare",
+      "de": "machen/tun",
+      "category": 2,
+      "example": "Che cosa vuoi fare?"
+    },
+    {
+      "id": 54,
+      "it": "andare",
+      "de": "gehen/fahren",
+      "category": 2,
+      "example": "Devo andare a casa."
+    },
+    {
+      "id": 55,
+      "it": "venire",
+      "de": "kommen",
+      "category": 2,
+      "example": "Puoi venire domani?"
+    },
+    {
+      "id": 56,
+      "it": "volere",
+      "de": "wollen",
+      "category": 2,
+      "example": "Voglio un caffè."
+    },
+    {
+      "id": 57,
+      "it": "potere",
+      "de": "können/dürfen",
+      "category": 2,
+      "example": "Posso entrare?"
+    },
+    {
+      "id": 58,
+      "it": "dovere",
+      "de": "müssen",
+      "category": 2,
+      "example": "Devo lavorare."
+    },
+    {
+      "id": 59,
+      "it": "sapere",
+      "de": "wissen/können",
+      "category": 2,
+      "example": "Non so la risposta."
+    },
+    {
+      "id": 60,
+      "it": "dire",
+      "de": "sagen",
+      "category": 2,
+      "example": "Che cosa vuoi dire?"
+    },
+    {
+      "id": 61,
+      "it": "parlare",
+      "de": "sprechen",
+      "category": 2,
+      "example": "Parlo un po’ italiano."
+    },
+    {
+      "id": 62,
+      "it": "capire",
+      "de": "verstehen",
+      "category": 2,
+      "example": "Non capisco bene."
+    },
+    {
+      "id": 63,
+      "it": "vedere",
+      "de": "sehen",
+      "category": 2,
+      "example": "Vedo la casa."
+    },
+    {
+      "id": 64,
+      "it": "sentire",
+      "de": "hören/fühlen",
+      "category": 2,
+      "example": "Sento la musica."
+    },
+    {
+      "id": 65,
+      "it": "dare",
+      "de": "geben",
+      "category": 2,
+      "example": "Mi puoi dare una mano?"
+    },
+    {
+      "id": 66,
+      "it": "prendere",
+      "de": "nehmen",
+      "category": 2,
+      "example": "Prendo un caffè."
+    },
+    {
+      "id": 67,
+      "it": "mettere",
+      "de": "stellen/legen",
+      "category": 2,
+      "example": "Metto il libro qui."
+    },
+    {
+      "id": 68,
+      "it": "stare",
+      "de": "sich befinden/gehen",
+      "category": 2,
+      "example": "Come stai oggi?"
+    },
+    {
+      "id": 69,
+      "it": "uscire",
+      "de": "hinausgehen",
+      "category": 2,
+      "example": "Voglio uscire stasera."
+    },
+    {
+      "id": 70,
+      "it": "entrare",
+      "de": "hineingehen",
+      "category": 2,
+      "example": "Posso entrare?"
+    },
+    {
+      "id": 71,
+      "it": "tornare",
+      "de": "zurückkommen",
+      "category": 2,
+      "example": "Torno subito."
+    },
+    {
+      "id": 72,
+      "it": "aspettare",
+      "de": "warten",
+      "category": 2,
+      "example": "Aspetta un minuto."
+    },
+    {
+      "id": 73,
+      "it": "cercare",
+      "de": "suchen",
+      "category": 2,
+      "example": "Cerco la stazione."
+    },
+    {
+      "id": 74,
+      "it": "trovare",
+      "de": "finden",
+      "category": 2,
+      "example": "Non trovo la chiave."
+    },
+    {
+      "id": 75,
+      "it": "chiedere",
+      "de": "fragen/bitten",
+      "category": 2,
+      "example": "Posso chiedere una cosa?"
+    },
+    {
+      "id": 76,
+      "it": "mangiare",
+      "de": "essen",
+      "category": 3,
+      "example": "Voglio mangiare qualcosa."
+    },
+    {
+      "id": 77,
+      "it": "bere",
+      "de": "trinken",
+      "category": 3,
+      "example": "Vuoi bere acqua?"
+    },
+    {
+      "id": 78,
+      "it": "dormire",
+      "de": "schlafen",
+      "category": 3,
+      "example": "Devo dormire."
+    },
+    {
+      "id": 79,
+      "it": "vivere",
+      "de": "leben",
+      "category": 3,
+      "example": "Vivo in Austria."
+    },
+    {
+      "id": 80,
+      "it": "lavorare",
+      "de": "arbeiten",
+      "category": 3,
+      "example": "Lavoro in ufficio."
+    },
+    {
+      "id": 81,
+      "it": "studiare",
+      "de": "lernen/studieren",
+      "category": 3,
+      "example": "Studio italiano ogni giorno."
+    },
+    {
+      "id": 82,
+      "it": "leggere",
+      "de": "lesen",
+      "category": 3,
+      "example": "Mi piace leggere."
+    },
+    {
+      "id": 83,
+      "it": "scrivere",
+      "de": "schreiben",
+      "category": 3,
+      "example": "Posso scrivere qui?"
+    },
+    {
+      "id": 84,
+      "it": "comprare",
+      "de": "kaufen",
+      "category": 3,
+      "example": "Voglio comprare il pane."
+    },
+    {
+      "id": 85,
+      "it": "pagare",
+      "de": "bezahlen",
+      "category": 3,
+      "example": "Posso pagare con carta?"
+    },
+    {
+      "id": 86,
+      "it": "aiutare",
+      "de": "helfen",
+      "category": 3,
+      "example": "Mi puoi aiutare?"
+    },
+    {
+      "id": 87,
+      "it": "chiamare",
+      "de": "anrufen/nennen",
+      "category": 3,
+      "example": "Ti chiamo domani."
+    },
+    {
+      "id": 88,
+      "it": "conoscere",
+      "de": "kennen",
+      "category": 3,
+      "example": "Conosco questa città."
+    },
+    {
+      "id": 89,
+      "it": "piacere",
+      "de": "gefallen",
+      "category": 3,
+      "example": "Mi piace la musica."
+    },
+    {
+      "id": 90,
+      "it": "amare",
+      "de": "lieben",
+      "category": 3,
+      "example": "Amo la mia famiglia."
+    },
+    {
+      "id": 91,
+      "it": "pensare",
+      "de": "denken",
+      "category": 3,
+      "example": "Penso a te."
+    },
+    {
+      "id": 92,
+      "it": "credere",
+      "de": "glauben",
+      "category": 3,
+      "example": "Credo di sì."
+    },
+    {
+      "id": 93,
+      "it": "iniziare",
+      "de": "beginnen",
+      "category": 3,
+      "example": "Inizio adesso."
+    },
+    {
+      "id": 94,
+      "it": "finire",
+      "de": "beenden",
+      "category": 3,
+      "example": "Finisco alle cinque."
+    },
+    {
+      "id": 95,
+      "it": "aprire",
+      "de": "öffnen",
+      "category": 3,
+      "example": "Puoi aprire la porta?"
+    },
+    {
+      "id": 96,
+      "it": "chiudere",
+      "de": "schließen",
+      "category": 3,
+      "example": "Chiudi la finestra, per favore."
+    },
+    {
+      "id": 97,
+      "it": "usare",
+      "de": "benutzen",
+      "category": 3,
+      "example": "Come si usa?"
+    },
+    {
+      "id": 98,
+      "it": "portare",
+      "de": "bringen/tragen",
+      "category": 3,
+      "example": "Porto il libro a casa."
+    },
+    {
+      "id": 99,
+      "it": "lasciare",
+      "de": "lassen/verlassen",
+      "category": 3,
+      "example": "Lascia la borsa qui."
+    },
+    {
+      "id": 100,
+      "it": "ricordare",
+      "de": "sich erinnern",
+      "category": 3,
+      "example": "Non ricordo il nome."
+    },
+    {
+      "id": 101,
+      "it": "chi",
+      "de": "wer",
+      "category": 4,
+      "example": "Chi è quella persona?"
+    },
+    {
+      "id": 102,
+      "it": "che",
+      "de": "was/welche",
+      "category": 4,
+      "example": "Che giorno è oggi?"
+    },
+    {
+      "id": 103,
+      "it": "che cosa",
+      "de": "was",
+      "category": 4,
+      "example": "Che cosa vuoi bere?"
+    },
+    {
+      "id": 104,
+      "it": "dove",
+      "de": "wo",
+      "category": 4,
+      "example": "Dove abiti?"
+    },
+    {
+      "id": 105,
+      "it": "quando",
+      "de": "wann",
+      "category": 4,
+      "example": "Quando arrivi?"
+    },
+    {
+      "id": 106,
+      "it": "perché",
+      "de": "warum/weil",
+      "category": 4,
+      "example": "Perché studi italiano?"
+    },
+    {
+      "id": 107,
+      "it": "come",
+      "de": "wie",
+      "category": 4,
+      "example": "Come ti chiami?"
+    },
+    {
+      "id": 108,
+      "it": "quanto",
+      "de": "wie viel",
+      "category": 4,
+      "example": "Quanto costa?"
+    },
+    {
+      "id": 109,
+      "it": "quale",
+      "de": "welche(r/s)",
+      "category": 4,
+      "example": "Quale preferisci?"
+    },
+    {
+      "id": 110,
+      "it": "e",
+      "de": "und",
+      "category": 4,
+      "example": "Pane e acqua, grazie."
+    },
+    {
+      "id": 111,
+      "it": "o",
+      "de": "oder",
+      "category": 4,
+      "example": "Tè o caffè?"
+    },
+    {
+      "id": 112,
+      "it": "ma",
+      "de": "aber",
+      "category": 4,
+      "example": "Vorrei venire, ma lavoro."
+    },
+    {
+      "id": 113,
+      "it": "anche",
+      "de": "auch",
+      "category": 4,
+      "example": "Anch’io parlo italiano."
+    },
+    {
+      "id": 114,
+      "it": "solo",
+      "de": "nur",
+      "category": 4,
+      "example": "Solo un minuto."
+    },
+    {
+      "id": 115,
+      "it": "con",
+      "de": "mit",
+      "category": 4,
+      "example": "Vieni con me?"
+    },
+    {
+      "id": 116,
+      "it": "senza",
+      "de": "ohne",
+      "category": 4,
+      "example": "Senza zucchero, grazie."
+    },
+    {
+      "id": 117,
+      "it": "per",
+      "de": "für/um",
+      "category": 4,
+      "example": "Questo è per te."
+    },
+    {
+      "id": 118,
+      "it": "di",
+      "de": "von/aus",
+      "category": 4,
+      "example": "Sono di Linz."
+    },
+    {
+      "id": 119,
+      "it": "da",
+      "de": "von/bei",
+      "category": 4,
+      "example": "Vengo da Vienna."
+    },
+    {
+      "id": 120,
+      "it": "in",
+      "de": "in",
+      "category": 4,
+      "example": "Vivo in Italia."
+    },
+    {
+      "id": 121,
+      "it": "su",
+      "de": "auf",
+      "category": 4,
+      "example": "Il libro è sul tavolo."
+    },
+    {
+      "id": 122,
+      "it": "qui",
+      "de": "hier",
+      "category": 4,
+      "example": "Sono qui."
+    },
+    {
+      "id": 123,
+      "it": "lì",
+      "de": "dort",
+      "category": 4,
+      "example": "La farmacia è lì."
+    },
+    {
+      "id": 124,
+      "it": "questo",
+      "de": "dieser/dieses",
+      "category": 4,
+      "example": "Questo mi piace."
+    },
+    {
+      "id": 125,
+      "it": "quello",
+      "de": "jener/jenes",
+      "category": 4,
+      "example": "Quello è bello."
+    },
+    {
+      "id": 126,
+      "it": "oggi",
+      "de": "heute",
+      "category": 5,
+      "example": "Oggi lavoro."
+    },
+    {
+      "id": 127,
+      "it": "domani",
+      "de": "morgen",
+      "category": 5,
+      "example": "Domani sono libero."
+    },
+    {
+      "id": 128,
+      "it": "ieri",
+      "de": "gestern",
+      "category": 5,
+      "example": "Ieri ero a casa."
+    },
+    {
+      "id": 129,
+      "it": "adesso",
+      "de": "jetzt",
+      "category": 5,
+      "example": "Adesso ho tempo."
+    },
+    {
+      "id": 130,
+      "it": "dopo",
+      "de": "später/nach",
+      "category": 5,
+      "example": "Ci vediamo dopo."
+    },
+    {
+      "id": 131,
+      "it": "prima",
+      "de": "vorher",
+      "category": 5,
+      "example": "Prima mangiamo."
+    },
+    {
+      "id": 132,
+      "it": "sempre",
+      "de": "immer",
+      "category": 5,
+      "example": "Sono sempre qui."
+    },
+    {
+      "id": 133,
+      "it": "mai",
+      "de": "nie",
+      "category": 5,
+      "example": "Non è mai tardi."
+    },
+    {
+      "id": 134,
+      "it": "spesso",
+      "de": "oft",
+      "category": 5,
+      "example": "Vengo spesso qui."
+    },
+    {
+      "id": 135,
+      "it": "giorno",
+      "de": "Tag",
+      "category": 5,
+      "example": "Buona giornata!"
+    },
+    {
+      "id": 136,
+      "it": "settimana",
+      "de": "Woche",
+      "category": 5,
+      "example": "Ci vediamo la prossima settimana."
+    },
+    {
+      "id": 137,
+      "it": "mese",
+      "de": "Monat",
+      "category": 5,
+      "example": "Un mese è lungo."
+    },
+    {
+      "id": 138,
+      "it": "anno",
+      "de": "Jahr",
+      "category": 5,
+      "example": "Un anno passa veloce."
+    },
+    {
+      "id": 139,
+      "it": "ora",
+      "de": "Stunde/Uhrzeit",
+      "category": 5,
+      "example": "Che ora è?"
+    },
+    {
+      "id": 140,
+      "it": "minuto",
+      "de": "Minute",
+      "category": 5,
+      "example": "Aspetta un minuto."
+    },
+    {
+      "id": 141,
+      "it": "uno",
+      "de": "eins",
+      "category": 5,
+      "example": "Un caffè, grazie."
+    },
+    {
+      "id": 142,
+      "it": "due",
+      "de": "zwei",
+      "category": 5,
+      "example": "Due persone, per favore."
+    },
+    {
+      "id": 143,
+      "it": "tre",
+      "de": "drei",
+      "category": 5,
+      "example": "Tre biglietti, grazie."
+    },
+    {
+      "id": 144,
+      "it": "quattro",
+      "de": "vier",
+      "category": 5,
+      "example": "Sono le quattro."
+    },
+    {
+      "id": 145,
+      "it": "cinque",
+      "de": "fünf",
+      "category": 5,
+      "example": "Arrivo alle cinque."
+    },
+    {
+      "id": 146,
+      "it": "dieci",
+      "de": "zehn",
+      "category": 5,
+      "example": "Sono le dieci."
+    },
+    {
+      "id": 147,
+      "it": "cento",
+      "de": "hundert",
+      "category": 5,
+      "example": "Costa cento euro."
+    },
+    {
+      "id": 148,
+      "it": "mattina",
+      "de": "Morgen",
+      "category": 5,
+      "example": "Ci vediamo domani mattina."
+    },
+    {
+      "id": 149,
+      "it": "sera",
+      "de": "Abend",
+      "category": 5,
+      "example": "Buonasera!"
+    },
+    {
+      "id": 150,
+      "it": "notte",
+      "de": "Nacht",
+      "category": 5,
+      "example": "Buonanotte!"
+    },
+    {
+      "id": 151,
+      "it": "casa",
+      "de": "Haus/Zuhause",
+      "category": 6,
+      "example": "Sono a casa."
+    },
+    {
+      "id": 152,
+      "it": "stanza",
+      "de": "Zimmer",
+      "category": 6,
+      "example": "La stanza è grande."
+    },
+    {
+      "id": 153,
+      "it": "porta",
+      "de": "Tür",
+      "category": 6,
+      "example": "Apri la porta."
+    },
+    {
+      "id": 154,
+      "it": "finestra",
+      "de": "Fenster",
+      "category": 6,
+      "example": "Chiudi la finestra."
+    },
+    {
+      "id": 155,
+      "it": "tavolo",
+      "de": "Tisch",
+      "category": 6,
+      "example": "Il libro è sul tavolo."
+    },
+    {
+      "id": 156,
+      "it": "sedia",
+      "de": "Stuhl",
+      "category": 6,
+      "example": "Questa sedia è libera?"
+    },
+    {
+      "id": 157,
+      "it": "letto",
+      "de": "Bett",
+      "category": 6,
+      "example": "Il letto è comodo."
+    },
+    {
+      "id": 158,
+      "it": "bagno",
+      "de": "Bad/Toilette",
+      "category": 6,
+      "example": "Dov’è il bagno?"
+    },
+    {
+      "id": 159,
+      "it": "cucina",
+      "de": "Küche",
+      "category": 6,
+      "example": "La cucina è piccola."
+    },
+    {
+      "id": 160,
+      "it": "acqua",
+      "de": "Wasser",
+      "category": 6,
+      "example": "Vorrei un po’ d’acqua."
+    },
+    {
+      "id": 161,
+      "it": "caffè",
+      "de": "Kaffee",
+      "category": 6,
+      "example": "Un caffè, per favore."
+    },
+    {
+      "id": 162,
+      "it": "pane",
+      "de": "Brot",
+      "category": 6,
+      "example": "Vorrei del pane."
+    },
+    {
+      "id": 163,
+      "it": "latte",
+      "de": "Milch",
+      "category": 6,
+      "example": "Un caffè con latte."
+    },
+    {
+      "id": 164,
+      "it": "colazione",
+      "de": "Frühstück",
+      "category": 6,
+      "example": "Non faccio colazione."
+    },
+    {
+      "id": 165,
+      "it": "pranzo",
+      "de": "Mittagessen",
+      "category": 6,
+      "example": "Il pranzo è pronto."
+    },
+    {
+      "id": 166,
+      "it": "cena",
+      "de": "Abendessen",
+      "category": 6,
+      "example": "La cena è alle otto."
+    },
+    {
+      "id": 167,
+      "it": "cibo",
+      "de": "Essen",
+      "category": 6,
+      "example": "Il cibo è buono."
+    },
+    {
+      "id": 168,
+      "it": "telefono",
+      "de": "Telefon",
+      "category": 6,
+      "example": "Dov’è il mio telefono?"
+    },
+    {
+      "id": 169,
+      "it": "messaggio",
+      "de": "Nachricht",
+      "category": 6,
+      "example": "Ti mando un messaggio."
+    },
+    {
+      "id": 170,
+      "it": "chiave",
+      "de": "Schlüssel",
+      "category": 6,
+      "example": "Non trovo la chiave."
+    },
+    {
+      "id": 171,
+      "it": "borsa",
+      "de": "Tasche",
+      "category": 6,
+      "example": "Questa borsa è mia."
+    },
+    {
+      "id": 172,
+      "it": "vestito",
+      "de": "Kleidungsstück",
+      "category": 6,
+      "example": "Mi piace questo vestito."
+    },
+    {
+      "id": 173,
+      "it": "scarpe",
+      "de": "Schuhe",
+      "category": 6,
+      "example": "Le scarpe sono nuove."
+    },
+    {
+      "id": 174,
+      "it": "libro",
+      "de": "Buch",
+      "category": 6,
+      "example": "Leggo un libro."
+    },
+    {
+      "id": 175,
+      "it": "musica",
+      "de": "Musik",
+      "category": 6,
+      "example": "Ascolto la musica."
+    },
+    {
+      "id": 176,
+      "it": "strada",
+      "de": "Straße",
+      "category": 7,
+      "example": "Dov’è questa strada?"
+    },
+    {
+      "id": 177,
+      "it": "piazza",
+      "de": "Platz",
+      "category": 7,
+      "example": "Ci vediamo in piazza."
+    },
+    {
+      "id": 178,
+      "it": "città",
+      "de": "Stadt",
+      "category": 7,
+      "example": "Questa città è bella."
+    },
+    {
+      "id": 179,
+      "it": "paese",
+      "de": "Dorf/Land",
+      "category": 7,
+      "example": "Vivo in un piccolo paese."
+    },
+    {
+      "id": 180,
+      "it": "macchina",
+      "de": "Auto",
+      "category": 7,
+      "example": "Vado in macchina."
+    },
+    {
+      "id": 181,
+      "it": "treno",
+      "de": "Zug",
+      "category": 7,
+      "example": "Prendo il treno."
+    },
+    {
+      "id": 182,
+      "it": "autobus",
+      "de": "Bus",
+      "category": 7,
+      "example": "Dov’è l’autobus?"
+    },
+    {
+      "id": 183,
+      "it": "biglietto",
+      "de": "Fahrkarte",
+      "category": 7,
+      "example": "Un biglietto, per favore."
+    },
+    {
+      "id": 184,
+      "it": "stazione",
+      "de": "Bahnhof",
+      "category": 7,
+      "example": "La stazione è vicina?"
+    },
+    {
+      "id": 185,
+      "it": "fermata",
+      "de": "Haltestelle",
+      "category": 7,
+      "example": "Dov’è la fermata?"
+    },
+    {
+      "id": 186,
+      "it": "aeroporto",
+      "de": "Flughafen",
+      "category": 7,
+      "example": "Vado all’aeroporto."
+    },
+    {
+      "id": 187,
+      "it": "hotel",
+      "de": "Hotel",
+      "category": 7,
+      "example": "L’hotel è qui vicino."
+    },
+    {
+      "id": 188,
+      "it": "ristorante",
+      "de": "Restaurant",
+      "category": 7,
+      "example": "Cerco un ristorante."
+    },
+    {
+      "id": 189,
+      "it": "negozio",
+      "de": "Geschäft",
+      "category": 7,
+      "example": "Il negozio è aperto?"
+    },
+    {
+      "id": 190,
+      "it": "mercato",
+      "de": "Markt",
+      "category": 7,
+      "example": "Andiamo al mercato."
+    },
+    {
+      "id": 191,
+      "it": "ufficio",
+      "de": "Büro",
+      "category": 7,
+      "example": "Lavoro in ufficio."
+    },
+    {
+      "id": 192,
+      "it": "lavoro",
+      "de": "Arbeit",
+      "category": 7,
+      "example": "Vado al lavoro."
+    },
+    {
+      "id": 193,
+      "it": "scuola",
+      "de": "Schule",
+      "category": 7,
+      "example": "La scuola è qui."
+    },
+    {
+      "id": 194,
+      "it": "ospedale",
+      "de": "Krankenhaus",
+      "category": 7,
+      "example": "Dov’è l’ospedale?"
+    },
+    {
+      "id": 195,
+      "it": "farmacia",
+      "de": "Apotheke",
+      "category": 7,
+      "example": "Cerco una farmacia."
+    },
+    {
+      "id": 196,
+      "it": "destra",
+      "de": "rechts",
+      "category": 7,
+      "example": "Gira a destra."
+    },
+    {
+      "id": 197,
+      "it": "sinistra",
+      "de": "links",
+      "category": 7,
+      "example": "Gira a sinistra."
+    },
+    {
+      "id": 198,
+      "it": "dritto",
+      "de": "geradeaus",
+      "category": 7,
+      "example": "Vai sempre dritto."
+    },
+    {
+      "id": 199,
+      "it": "vicino a",
+      "de": "in der Nähe von",
+      "category": 7,
+      "example": "È vicino alla stazione."
+    },
+    {
+      "id": 200,
+      "it": "lontano",
+      "de": "weit weg",
+      "category": 7,
+      "example": "È molto lontano?"
+    },
+    {
+      "id": 201,
+      "it": "bene",
+      "de": "gut",
+      "category": 8,
+      "example": "Sto bene, grazie."
+    },
+    {
+      "id": 202,
+      "it": "male",
+      "de": "schlecht",
+      "category": 8,
+      "example": "Oggi sto male."
+    },
+    {
+      "id": 203,
+      "it": "buono",
+      "de": "gut (Eigenschaft)",
+      "category": 8,
+      "example": "Il cibo è buono."
+    },
+    {
+      "id": 204,
+      "it": "bello",
+      "de": "schön",
+      "category": 8,
+      "example": "Che bella giornata!"
+    },
+    {
+      "id": 205,
+      "it": "grande",
+      "de": "groß",
+      "category": 8,
+      "example": "La casa è grande."
+    },
+    {
+      "id": 206,
+      "it": "piccolo",
+      "de": "klein",
+      "category": 8,
+      "example": "Il tavolo è piccolo."
+    },
+    {
+      "id": 207,
+      "it": "nuovo",
+      "de": "neu",
+      "category": 8,
+      "example": "Ho un telefono nuovo."
+    },
+    {
+      "id": 208,
+      "it": "vecchio",
+      "de": "alt",
+      "category": 8,
+      "example": "Questo libro è vecchio."
+    },
+    {
+      "id": 209,
+      "it": "facile",
+      "de": "einfach",
+      "category": 8,
+      "example": "È facile capire."
+    },
+    {
+      "id": 210,
+      "it": "difficile",
+      "de": "schwierig",
+      "category": 8,
+      "example": "L’italiano è difficile?"
+    },
+    {
+      "id": 211,
+      "it": "importante",
+      "de": "wichtig",
+      "category": 8,
+      "example": "È molto importante."
+    },
+    {
+      "id": 212,
+      "it": "interessante",
+      "de": "interessant",
+      "category": 8,
+      "example": "Questo è interessante."
+    },
+    {
+      "id": 213,
+      "it": "felice",
+      "de": "glücklich",
+      "category": 8,
+      "example": "Oggi sono felice."
+    },
+    {
+      "id": 214,
+      "it": "triste",
+      "de": "traurig",
+      "category": 8,
+      "example": "Sono un po’ triste."
+    },
+    {
+      "id": 215,
+      "it": "stanco",
+      "de": "müde",
+      "category": 8,
+      "example": "Sono molto stanco."
+    },
+    {
+      "id": 216,
+      "it": "contento",
+      "de": "zufrieden",
+      "category": 8,
+      "example": "Sono contento di vederti."
+    },
+    {
+      "id": 217,
+      "it": "caldo",
+      "de": "warm/heiß",
+      "category": 8,
+      "example": "Oggi fa caldo."
+    },
+    {
+      "id": 218,
+      "it": "freddo",
+      "de": "kalt",
+      "category": 8,
+      "example": "Fuori fa freddo."
+    },
+    {
+      "id": 219,
+      "it": "caro",
+      "de": "teuer/lieb",
+      "category": 8,
+      "example": "Questo è troppo caro."
+    },
+    {
+      "id": 220,
+      "it": "economico",
+      "de": "günstig",
+      "category": 8,
+      "example": "Cerco qualcosa di economico."
+    },
+    {
+      "id": 221,
+      "it": "veloce",
+      "de": "schnell",
+      "category": 8,
+      "example": "Il treno è veloce."
+    },
+    {
+      "id": 222,
+      "it": "lento",
+      "de": "langsam",
+      "category": 8,
+      "example": "Parla più lento, per favore."
+    },
+    {
+      "id": 223,
+      "it": "molto",
+      "de": "sehr/viel",
+      "category": 8,
+      "example": "Grazie mille, molto gentile."
+    },
+    {
+      "id": 224,
+      "it": "poco",
+      "de": "wenig",
+      "category": 8,
+      "example": "Ho poco tempo."
+    },
+    {
+      "id": 225,
+      "it": "abbastanza",
+      "de": "ziemlich/genug",
+      "category": 8,
+      "example": "Va abbastanza bene."
+    },
+    {
+      "id": 226,
+      "it": "vorrei",
+      "de": "ich hätte gern",
+      "category": 9,
+      "example": "Vorrei un caffè."
+    },
+    {
+      "id": 227,
+      "it": "posso",
+      "de": "ich kann/darf",
+      "category": 9,
+      "example": "Posso fare una domanda?"
+    },
+    {
+      "id": 228,
+      "it": "devo",
+      "de": "ich muss",
+      "category": 9,
+      "example": "Devo andare adesso."
+    },
+    {
+      "id": 229,
+      "it": "ho",
+      "de": "ich habe",
+      "category": 9,
+      "example": "Ho una domanda."
+    },
+    {
+      "id": 230,
+      "it": "sono",
+      "de": "ich bin",
+      "category": 9,
+      "example": "Sono di Linz."
+    },
+    {
+      "id": 231,
+      "it": "non",
+      "de": "nicht",
+      "category": 9,
+      "example": "Non capisco."
+    },
+    {
+      "id": 232,
+      "it": "mi",
+      "de": "mir/mich",
+      "category": 9,
+      "example": "Mi piace questo."
+    },
+    {
+      "id": 233,
+      "it": "ti",
+      "de": "dir/dich",
+      "category": 9,
+      "example": "Ti chiamo domani."
+    },
+    {
+      "id": 234,
+      "it": "ci",
+      "de": "uns/dort",
+      "category": 9,
+      "example": "Ci vediamo presto."
+    },
+    {
+      "id": 235,
+      "it": "un",
+      "de": "ein (m.)",
+      "category": 9,
+      "example": "Vorrei un caffè e un tè."
+    },
+    {
+      "id": 236,
+      "it": "una",
+      "de": "eine (f.)",
+      "category": 9,
+      "example": "Una persona, per favore."
+    },
+    {
+      "id": 237,
+      "it": "il",
+      "de": "der",
+      "category": 9,
+      "example": "Il conto, per favore."
+    },
+    {
+      "id": 238,
+      "it": "la",
+      "de": "die",
+      "category": 9,
+      "example": "La porta è aperta."
+    },
+    {
+      "id": 239,
+      "it": "un po’",
+      "de": "ein bisschen",
+      "category": 9,
+      "example": "Parlo un po’ italiano."
+    },
+    {
+      "id": 240,
+      "it": "bisogno",
+      "de": "Bedarf",
+      "category": 9,
+      "example": "Ho bisogno di aiuto."
+    },
+    {
+      "id": 241,
+      "it": "aiuto",
+      "de": "Hilfe",
+      "category": 9,
+      "example": "Mi puoi dare aiuto?"
+    },
+    {
+      "id": 242,
+      "it": "problema",
+      "de": "Problem",
+      "category": 9,
+      "example": "Ho un problema."
+    },
+    {
+      "id": 243,
+      "it": "tempo",
+      "de": "Zeit",
+      "category": 9,
+      "example": "Non ho tempo."
+    },
+    {
+      "id": 244,
+      "it": "soldi",
+      "de": "Geld",
+      "category": 9,
+      "example": "Non ho soldi."
+    },
+    {
+      "id": 245,
+      "it": "prezzo",
+      "de": "Preis",
+      "category": 9,
+      "example": "Qual è il prezzo?"
+    },
+    {
+      "id": 246,
+      "it": "conto",
+      "de": "Rechnung",
+      "category": 9,
+      "example": "Il conto, per favore."
+    },
+    {
+      "id": 247,
+      "it": "domanda",
+      "de": "Frage",
+      "category": 9,
+      "example": "Posso fare una domanda?"
+    },
+    {
+      "id": 248,
+      "it": "risposta",
+      "de": "Antwort",
+      "category": 9,
+      "example": "Grazie per la risposta."
+    },
+    {
+      "id": 249,
+      "it": "insieme",
+      "de": "zusammen",
+      "category": 9,
+      "example": "Andiamo insieme."
+    },
+    {
+      "id": 250,
+      "it": "subito",
+      "de": "sofort",
+      "category": 9,
+      "example": "Arrivo subito."
+    }
+  ]
+}
